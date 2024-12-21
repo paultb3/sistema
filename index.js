@@ -3,7 +3,7 @@ import express from 'express'
 const app = express()
 
 app.get('/', (req, res)=>{
-    res.send('brennis es un chivo')
+    res.send('Hola esta es una prueba, para comprobar los servicios de node js')
 })
 
 
